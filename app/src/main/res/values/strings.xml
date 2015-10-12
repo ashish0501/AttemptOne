@@ -1,0 +1,13 @@
+<!--suppress ALL -->
+<resources>
+    <string name="app_name">AttemptOne</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rotate">RotateActivity</string>
+    <string name="Back">Back</string>
+    <string name="title_activity_final">FinalActivity</string>
+
+
+
+</resources>
